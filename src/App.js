@@ -12,7 +12,7 @@ function App() {
         <Col sm={3}><Sidebar/></Col>
         <Col sm={9} id='back'>
           <Routes>
-          <Route path='/' element={<Auth/>}/>
+          <Route path='/redux' element={<Auth/>}/>
           </Routes>
         </Col>
       </Row>
