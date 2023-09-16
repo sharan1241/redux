@@ -18,7 +18,7 @@ function Auth(){
     const Handleclick = ()=>{
         dispatch(setemail(emaill))
         dispatch(setusername(usernamee))
-        navigate("/redux")
+        navigate("/redux/")
     }
     return(
         <div id="main">
