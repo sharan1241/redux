@@ -1,0 +1,11 @@
+#side{
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+#button{
+    width: 100%;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: rgba(32, 53, 98, 1);
+}

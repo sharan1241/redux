@@ -1,0 +1,39 @@
+#add{
+    width: 100%;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+#title{
+    width: 100%;
+    border-bottom: none;
+    border-top: none;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+#take{
+    width: 100%;
+    border-top: none;
+    padding-top: 0;
+}
+#sub{
+    border-radius: 10%;
+    background-color: rgba(32, 53, 98, 1);
+    color: aliceblue;
+    border-color: aliceblue;
+}
+#my{
+    margin-top: 8%;
+    color: rgba(32, 53, 98, 1);
+}
+#p2{
+    font-size: 90%;
+}
+#p1{
+    font-weight: bold;
+    font-size: 120%;
+}
+#main{
+    background-color: lightblue;
+    height: 100vh;
+    padding: 5%;
+}

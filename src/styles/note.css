@@ -1,0 +1,28 @@
+#note{
+    height: 50%;
+    background-color: lightblue;
+    margin-top: 20%;
+    white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+#one{
+    height: 50%;
+    width: 30%;
+    margin-left: 10%;
+    background-color: white;
+    border-radius: 10%;
+    padding: 3%;
+}
+#state2{
+    text-align: left;
+    color: rgba(32, 53, 98, 1);
+    font-size:80%;
+}
+#state1{
+    text-align: left;
+    color: rgba(32, 53, 98, 1);
+    font-size: 150%;
+}
